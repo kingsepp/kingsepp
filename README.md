@@ -59,11 +59,8 @@
 
 ## 📫 How to Reach Me
 
-- ✉️ sepp@example.com  
+- ✉️ info@kingsepp.dev  
 - 🌐 [kingsepp.dev](https://kingsepp.dev)  
 
 ---
 
-<div align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kingsepp&show_icons=true&theme=dark)
-</div>
