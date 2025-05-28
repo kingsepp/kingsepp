@@ -1,47 +1,69 @@
-## Cloud Architect | System Integration | Business Informatics
-
-I am a Cloud Architect with a strong background in system integration and business informatics. My expertise lies at the intersection of cloud infrastructure, DevOps, and secure system design—primarily supporting clients in the public sector and automotive industry.
-
----
-
-### 🛠️ Core Competencies
-
-**Cloud & Infrastructure**
-- AWS (CDK, Lambda, ECS, DynamoDB, API Gateway, Glue, Athena, QuickSight)
-- Docker
-- Prometheus, Grafana
-
-**Development**
-- Java, TypeScript, Go
-- JSON, REST APIs, Microservices
-- HTML
-
-**DevOps & CI/CD**
-- Git, GitHub, npm, pnpm
-- CI/CD pipelines
-- Containerization
-
-**Data & Middleware**
-- Apache Kafka
-- IBM MQ, IBM InfoSphere
-- Change Data Capture, Data Lake
-
-**System & Security**
-- Linux / Windows / macOS administration
-- IAM, Active Directory
-- Cybersecurity best practices
-
-**Methodologies & Tools**
-- Agile, Scrum, V-Modell, Waterfall
-- Jira, Confluence
-- Requirements Engineering, MBSE
+<!-- Banner -->
+<div align="center">
+  <p>Cloud Architect | System Integration | Business Informatics</p>
+  <p>
+    <a href="https://github.com/kingsepp">
+      <img src="https://img.shields.io/github/followers/kingsepp?label=Follow&style=social" alt="Follow on GitHub"/>
+    </a>
+    <a href="https://www.linkedin.com/in/your-profile">
+      <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn"/>
+    </a>
+    <a href="https://twitter.com/yourhandle">
+      <img src="https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?logo=twitter" alt="Twitter"/>
+    </a>
+  </p>
+</div>
 
 ---
 
-### 📈 Professional Approach
+## 🛠️ Skills
 
-I deliver robust, scalable solutions with a focus on secure architectures, automation, and end-to-end integration. My work is driven by industry standards, customer requirements, and a commitment to operational excellence.
+<details>
+<summary>Cloud & Infrastructure</summary>
+
+- AWS (CDK, Lambda, ECS, DynamoDB, API Gateway, Glue, Athena)  
+- Docker, Kubernetes (EKS), Terraform  
+- Prometheus, Grafana  
+
+</details>
+
+<details>
+<summary>Development</summary>
+
+- 🟨 Java · TypeScript · Go  
+- 🔗 REST APIs · Microservices · GraphQL  
+- 🌐 HTML, CSS, React  
+
+</details>
+
+<details>
+<summary>DevOps & CI/CD</summary>
+
+- Git, GitHub Actions, Jenkins  
+- CI/CD pipelines, Container Registry  
+- Infrastructure as Code (IaC)  
+
+</details>
 
 ---
 
-<!-- Optionally add contact or project highlights here in the future -->
+## 🚧 Favorite Projects
+
+| Project                      | Description                                         | Link                                                        |
+|:----------------------------:|:---------------------------------------------------:|:-----------------------------------------------------------:|
+| 🔗 **cloud-infra-toolkit**   | A collection of Terraform modules for public sector | [Repo](https://github.com/kingsepp/cloud-infra-toolkit)     |
+| ⚙️ **api-gateway-demo**      | Serverless API using AWS CDK & Lambda               | [Repo](https://github.com/kingsepp/api-gateway-demo)        |
+| 📊 **data-pipeline**         | Kafka → Data Lake → QuickSight dashboard            | [Repo](https://github.com/kingsepp/data-pipeline)           |
+
+---
+
+## 📫 How to Reach Me
+
+- ✉️ sepp@example.com  
+- 🌐 [kingsepp.dev](https://kingsepp.dev)  
+
+---
+
+<div align="center">
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kingsepp&show_icons=true&theme=dark)
+</div>
